@@ -1,4 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋!</h2>
+<h2 data-importer="text" align="left">Olá! Sou estudante de Engenharia de Software, apaixonado por construir pipelines de dados, sistemas backend e soluções escaláveis.
+
+💻 Explorando Engenharia de Dados, Desenvolvimento Backend e Arquitetura de Software.
+
+🚀 Sempre aprendendo, desenvolvendo projetos e evoluindo.</h2>
 
 ###
 
